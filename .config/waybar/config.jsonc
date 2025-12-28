@@ -130,7 +130,7 @@
     },
     "clock": {
         // "timezone": "America/New_York",
-        "format": "<span font-family=\"JetBrainsMono Nerd Font Propo\">󰥔 </span>{:%H:%M} WIB",
+        "format": "<span font-family=\"JetBrainsMono Nerd Font Propo\">󰥔 </span>{:%H:%M}",
         "interval": 1,
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "on-click": "gnome-calendar"
