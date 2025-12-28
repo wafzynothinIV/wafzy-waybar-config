@@ -26,5 +26,5 @@ edit at "niri/workspace" and "niri/window" on "config.jsonc"
 <img width="1366" height="30" alt="image" src="https://github.com/user-attachments/assets/a4419e78-a1f6-475a-966d-01e9f9140ff5" />
 
 # Source list fetched (I guess?)
-- Google Fonts (for the Manrope font) | [link](https://fonts.google.com/)
-- Matugen (for the color generate) | [link](https://github.com/InioX/matugen)
+- Google Fonts (for the Manrope font)
+- Matugen
