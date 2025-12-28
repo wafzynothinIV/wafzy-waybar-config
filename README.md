@@ -14,7 +14,7 @@ Coloring :
 - Matugen (A "Material Design" looking color)
 
 ## The File Not Included (sorry for this one)
-matugen color files (I suggest to make your own) by following [this](https://github.com/InioX/matugen-themes?tab=readme-ov-file#waybar) and download the [templates file](https://github.com/InioX/matugen-themes/blob/main/templates/colors.css)
+matugen color files (I suggest to make your own) by following [this guide](https://github.com/InioX/matugen-themes?tab=readme-ov-file#waybar)
 
 ## Need to edit part
 Since this file in repo currently use for niri, you may need changes at this part to make same as your wm use
