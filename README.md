@@ -1,6 +1,9 @@
 # About this Repository?
 my waybar config
 
+## The reminding
+"after you put this file on your own config directory, you can edit it with your preference/taste :)"
+
 ## Some of list what need it
 Font Section :
 - Nerd Font (I Use "JetBrainsMono Nerd Font Propo" as in the my "config.jsonc")
